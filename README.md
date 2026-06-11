@@ -35,7 +35,7 @@
 
 | Interrogation Room | Make Your Accusation |
 |---|---|
-| ![Interrogation](screenshots/output1.png) | ![Accusation](screenshots/output2.png) |
+| ![Interrogation](output2.png) | ![Accusation](output1.png) |
 
 ---
 
